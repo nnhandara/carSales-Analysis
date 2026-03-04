@@ -94,6 +94,10 @@ o	Sales Overview
 o	Customer Analysis
 o	Company Analysis
 
+NB. You can also access dashboard through the following link:
+
+https://app.powerbi.com/view?r=eyJrIjoiZDI3N2I0NDgtY2QzMC00ZjQ0LWFkYTUtMzAxNDZlYzFhNGU5IiwidCI6IjNiMTZlZDI1LTlmMWQtNDkxMi04M2ZkLWY2OTQ3OTY2ZTRkZCJ9
+ 
 **Project Value**
 This project demonstrates:
 •	Business intelligence development
